@@ -119,15 +119,4 @@
         </plugins>
     </build>
 
-    <!--万邦云健康自定义 maven 仓库-->
-    <repositories>
-        <repository>
-            <id>public</id>
-            <name>wanbangyjk_nexus</name>
-            <url>http://yjkgit.wanbang.net:8081/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-        </repository>
-    </repositories>
 </project>
