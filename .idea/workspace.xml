@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62740ae4-f106-4285-9ad8-b1a6dc20a4a7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/java/com/zsy/dubbo/config/PropertiesConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/java/com/zsy/dubbo/run/Startup.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/java/com/zsy/dubbo/web/DemoConsumerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboprovider/src/main/java/com/zsy/dubbo/config/PropertiesConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dubboprovider/src/main/java/com/zsy/dubbo/run/Startup.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dubboapi/dubboapi.iml" afterPath="$PROJECT_DIR$/dubboapi/dubboapi.iml" />
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" afterPath="$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" />
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/src/main/java/com/zsy/dubbo/Consumer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/src/main/resources/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/resources/dubbo/dubbo-consumer.xml" />
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/target/classes/com/zsy/dubbo/Consumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/target/classes/dubbo-consumer.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboparent.iml" afterPath="$PROJECT_DIR$/dubboparent.iml" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/dubboprovider.iml" afterPath="$PROJECT_DIR$/dubboprovider/dubboprovider.iml" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/src/main/java/com/zsy/dubbo/DemoServiceImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/src/main/java/com/zsy/dubbo/Provider.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/src/main/resources/dubbo-provider.xml" afterPath="$PROJECT_DIR$/dubboprovider/src/main/resources/dubbo/dubbo-provider.xml" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/target/classes/com/zsy/dubbo/DemoServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/target/classes/com/zsy/dubbo/Provider.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider/target/classes/dubbo-provider.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/dubboprovider1.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/src/main/java/com.zsy.dubbo/DemoServiceImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/src/main/java/com.zsy.dubbo/Provider.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/src/main/resources/dubbo-provider.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/target/classes/com/zsy/dubbo/DemoServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/target/classes/com/zsy/dubbo/Provider.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dubboprovider1/target/classes/dubbo-provider.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="62740ae4-f106-4285-9ad8-b1a6dc20a4a7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/dubboapi/target/" />
@@ -254,8 +203,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
+    <option name="x" value="491" />
+    <option name="width" value="1437" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -719,15 +668,16 @@
       <workItem from="1578041536711" duration="304000" />
       <workItem from="1578044075328" duration="1570000" />
       <workItem from="1578273757556" duration="1084000" />
-      <workItem from="1578275122510" duration="4454000" />
+      <workItem from="1578275122510" duration="4739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22523000" />
+    <option name="totallyTimeSpent" value="22808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
